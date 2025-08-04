@@ -1,6 +1,6 @@
 {
-  "name": "Dev: Lauvigne",
-  "short_name": "Lauvigne",
+  "name": "Dev: Abdul Ahad",
+  "short_name": " Ahad",
   "description": "Full Stack Developer & Entrepreneur portfolio",
   "start_url": "/",
   "display": "standalone",
@@ -8,7 +8,7 @@
   "theme_color": "#00BBFF",
   "icons": [
     {
-      "src": "/logo/lauv-logo2.svg",
+      "src": "/android-chrome-192x192.png",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any maskable"

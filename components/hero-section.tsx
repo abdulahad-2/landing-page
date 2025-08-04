@@ -161,7 +161,7 @@ export function HeroSection() {
         </div>
 
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 w-full relative z-10">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center min-h-[80vh] lg:min-h-0">
+          <div className="grid grid-cols-1 lg:grid-cols-2 gap-6 items-center justify-items-center lg:justify-items-start min-h-[80vh] lg:min-h-0">
             {/* Text Column */}
             <div className="space-y-4 order-1 lg:order-2 text-center lg:text-left px-2">
               <div>
@@ -221,7 +221,7 @@ export function HeroSection() {
             </div>
 
             {/* Profile Card Column */}
-            <div className="flex flex-col items-center lg:items-start space-y-4 order-2 lg:order-1">
+            <div className="flex flex-col items-center lg:items-start space-y-4 order-2 lg:order-1 w-full">
               <div className="animate-fade-in-scale w-full max-w-sm">
                 <ProfileCard
                   name="Abdul Ahad"

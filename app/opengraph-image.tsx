@@ -1,6 +1,6 @@
 export const runtime = 'edge'
 
-export const alt = 'Dev: Lauvigne - Full Stack Developer & Entrepreneur'
+export const alt = 'Dev: Abdul Ahad - Full Stack Developer & Entrepreneur'
 export const size = {
   width: 1200,
   height: 630,
@@ -32,7 +32,7 @@ export default async function Image() {
       </g>
       
       <!-- Text -->
-      <text x="350" y="280" fill="white" font-family="Inter, system-ui, sans-serif" font-size="48" font-weight="700">Dev: Lauvigne</text>
+      <text x="350" y="280" fill="white" font-family="Inter, system-ui, sans-serif" font-size="48" font-weight="700">Dev: Abdul Ahad</text>
       <text x="350" y="340" fill="#94a3b8" font-family="Inter, system-ui, sans-serif" font-size="24" font-weight="400">Full Stack Developer & Entrepreneur</text>
       <text x="350" y="400" fill="#64748b" font-family="Inter, system-ui, sans-serif" font-size="18" font-weight="300">Transforming ideas into digital experiences</text>
     </svg>`,
